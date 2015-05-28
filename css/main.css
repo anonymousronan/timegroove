@@ -44,8 +44,11 @@ body {
 
 .container {
   display: flex;
+  -webkit-flex-direction: column;
   flex-direction: column;
+  -webkit-justify-content: center;
   justify-content: center;
+  -webkit-align-items: center;
   align-items: center;
   height: 600px;
   width: 70%;
