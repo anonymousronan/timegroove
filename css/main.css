@@ -38,11 +38,11 @@
 }
 
 body {
-    background-image: url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/225114/clock2.jpg')!important;
+    background-image: url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/225114/clock2.jpg');
    -webkit-background-size: cover; 
    -moz-background-size: cover; 
    -o-background-size: cover;     
-  background-size: cover !important;
+  background-size: cover ;
 }
 
 .container {
