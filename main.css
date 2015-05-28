@@ -1,1 +1,31 @@
-CSS
+body {
+    background-image: url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/225114/clock2.jpg')!important;
+  background-size: cover;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 600px;
+  width: 70%;
+  margin: auto;
+  margin-top: 30px;
+  Background-color: rgba(255,255,255, 0.4);
+  border-radius: 5px;
+  font-family: bariol;
+}
+
+.logo {
+  margin: auto;
+}
+
+h1 {
+  font-size: 1.5rem;
+  text-transform: uppercase;
+  width: 65%;
+  text-align: center;
+  color: #333;
+
+}
