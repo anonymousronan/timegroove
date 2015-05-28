@@ -85,6 +85,16 @@ h1 {
 
 }
 
+
+.twitter {
+  font-size: 1rem;
+  text-transform: uppercase;
+  width: 65%;
+  text-align: center;
+  color: #333;
+}
+
+
 @media screen and (max-width: 600px) {
     .container {
         width: 90%;
